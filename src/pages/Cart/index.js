@@ -1,4 +1,5 @@
 import React, { useContext, useEffect, useRef } from "react";
+import { BsCartDashFill, BsFillCartPlusFill } from 'react-icons/bs';
 import { FiArrowLeft } from 'react-icons/fi';
 import { Link } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
@@ -30,7 +31,7 @@ export default function Cart() {
                         <h3 className="game-name">{product.name}</h3>
                         <img className="game-image" src={`/images/${product.image}`} alt={product.name} />
                         <p className="game-price"><span className="units">{product.units} - </span>{product.price.toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })}</p>
-                        <p className="add-remove"><button onClick={() => onRemoveOfCart(product)} className="remove">-</button><button onClick={() => onAddToCart(product)} className="add">+</button></p>
+                        <p className="add-remove"><button onClick={() => onRemoveOfCart(product)}><BsCartDashFill className="remove" /></button><button onClick={() => onAddToCart(product)}><BsFillCartPlusFill className="add" /></button></p>
                     </React.Fragment>
                 ))}
                 <h4 className="total">Total: {total.current.toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })}</h4>

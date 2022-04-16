@@ -55,11 +55,13 @@ export const CartContainer = styled.main`
                 font-size: 2rem;
                 background: none;
 
-                &.add {
+                & .add {
+                    height: 1.4rem;
                     color: ${colors.green};
                 }
 
-                &.remove {
+                & .remove {
+                    height: 1.4rem;
                     color: ${colors.orange};
                 }
             }
