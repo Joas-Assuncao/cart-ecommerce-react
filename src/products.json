@@ -1,0 +1,83 @@
+[
+    {
+        "id": 312,
+        "name": "Super Mario Odyssey",
+        "price": 197.88,
+        "score": 100,
+        "units": 1,
+        "image": "super-mario-odyssey.png",
+        "link": "https://www.nintendo.com/pt_BR/games/detail/super-mario-odyssey-switch/"
+    },
+    {
+        "id": 201,
+        "name": "Call Of Duty Infinite Warfare",
+        "price": 49.99,
+        "score": 80,
+        "units": 1,
+        "image": "call-of-duty-infinite-warfare.png",
+        "link": "https://www.callofduty.com/br/pt/infinitewarfare"
+    },
+    {
+        "id": 102,
+        "name": "The Witcher III Wild Hunt",
+        "price": 119.5,
+        "score": 250,
+        "units": 1,
+        "image": "the-witcher-iii-wild-hunt.png",
+        "link": "https://www.thewitcher.com/en/witcher3"
+    },
+    {
+        "id": 99,
+        "name": "Call Of Duty WWII",
+        "price": 249.99,
+        "score": 205,
+        "units": 1,
+        "image": "call-of-duty-wwii.png",
+        "link": "https://www.callofduty.com/br/pt/wwii"
+    },
+    {
+        "id": 12,
+        "name": "Mortal Kombat XL",
+        "price": 69.99,
+        "score": 150,
+        "units": 1,
+        "image": "mortal-kombat-xl.png",
+        "link": "https://mortalkombat.fandom.com/pt/wiki/Mortal_Kombat_XL"
+    },
+    {
+        "id": 74,
+        "name": "Shards of Darkness",
+        "price": 71.94,
+        "score": 400,
+        "units": 1,
+        "image": "shards-of-darkness.png",
+        "link": "https://www.gameblast.com.br/2017/03/analise-styx-shards-of-darkness-pc-ps4-xbo.html"
+    },
+    {
+        "id": 31,
+        "name": "Terra Média: Sombras de Mordor",
+        "price": 79.99,
+        "score": 50,
+        "units": 1,
+        "image": "terra-media-sombras-de-mordor.png",
+        "link": "https://www.gameblast.com.br/2015/10/shadow-of-mordor-trofeus-achievements.html"
+    },
+    {
+        "id": 420,
+        "name": "FIFA 18",
+        "price": 195.39,
+        "score": 325,
+        "units": 1,
+        "image": "fifa-18.png",
+        "link": "https://www.gameblast.com.br/2017/10/fifa-18-analise-review.html"
+    },
+    {
+        "id": 501,
+        "name": "Horizon Zero Dawn",
+        "price": 115.8,
+        "score": 290,
+        "units": 1,
+        "image": "horizon-zero-dawn.png",
+        "link": "https://www.playstationblast.com.br/2017/03/analise-review-horizon-zero-dawn.html"
+    }
+]
